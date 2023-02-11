@@ -1,0 +1,51 @@
+Obiective Întâlnire 5
+
+● Să învățăm să lucrăm cu funcții
+○ Funcții simple
+○ Funcții cu parametri
+○ Funcții cu return
+○ Funcții cu parametri și return
+
+Ce este o funcție?
+
+● O zonă de cod cu o mică logică proprie, care poate fi folosită/refolosită (apelată) de oricâte
+ori avem nevoie.
+● Asta e și utilitatea ei principală: ajută să eliminăm copy paste
+● Write once, use n times
+
+Ce este un parametru?
+
+● Datele de intrare (input) într-o funcție
+● Uneori funcția are nevoie de niște date că să poată funcționa
+● De exemplu, dacă ar fi să continuăm funcția print_hi și să o customizam pentru diferiți
+utilizatori vom avea nevoie de un parametru unde să păstrăm utilizatorii diferiți
+● O funcție poate să aibă oricâți parametri
+● Params sunt opționali
+● Dacă avem mai mulți, se despart de
+● Practic sunt niște variabile declarate
+dar neinițializate
+● Ele vor fi inițializate (adică vor primi valori),
+la apelarea funcției
+
+Ce este un return?
+
+● Se folosește când funcția ne și expune un răspuns (output)
+● Acest răspuns se poate salva în variabile
+● Return e opțional
+● Se poate returna orice tip de date cunoscut
+● În general, return e ultimul lucru în funcție,
+deoarece aici se iese din functie
+● It’s like a lovechild between break + pop :))
+(iese din funcție dar ne oferă și un răspuns)
+● În general avem un singur return.
+Excepție când folosim if else,
+atunci putem avea mai multe,
+dar oricum la rulare se va ajunge doar
+într-un singur caz
+
+Întrebări & curiozități?
+j Întrebări de interviu:
+
+➢ Ce este o funcție?
+➢ Ce este un parametru?
+➢ Ce este un return și când este folosit?
